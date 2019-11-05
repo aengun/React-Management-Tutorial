@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="gray-background">
      <img src={logo} lat = "logo"/>
-     <h2> 김학준 병신! 쮜지리~ </h2>
+     <h2> 김학준 병신! </h2>
     </div>
   );
 }
